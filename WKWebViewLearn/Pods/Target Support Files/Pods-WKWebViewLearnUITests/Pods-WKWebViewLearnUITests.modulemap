@@ -1,0 +1,6 @@
+framework module Pods_WKWebViewLearnUITests {
+  umbrella header "Pods-WKWebViewLearnUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
